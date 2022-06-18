@@ -1,0 +1,15 @@
+C:\Users\DELL\desktop\AlphaApp\obj\Debug\net6.0\AlphaApp.csproj.AssemblyReference.cache
+C:\Users\DELL\desktop\AlphaApp\obj\Debug\net6.0\AlphaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\desktop\AlphaApp\obj\Debug\net6.0\AlphaApp.AssemblyInfoInputs.cache
+C:\Users\DELL\desktop\AlphaApp\obj\Debug\net6.0\AlphaApp.AssemblyInfo.cs
+C:\Users\DELL\desktop\AlphaApp\obj\Debug\net6.0\AlphaApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\desktop\AlphaApp\bin\Debug\net6.0\AlphaApp.exe
+C:\Users\DELL\desktop\AlphaApp\bin\Debug\net6.0\AlphaApp.deps.json
+C:\Users\DELL\desktop\AlphaApp\bin\Debug\net6.0\AlphaApp.runtimeconfig.json
+C:\Users\DELL\desktop\AlphaApp\bin\Debug\net6.0\AlphaApp.dll
+C:\Users\DELL\desktop\AlphaApp\bin\Debug\net6.0\AlphaApp.pdb
+C:\Users\DELL\desktop\AlphaApp\obj\Debug\net6.0\AlphaApp.dll
+C:\Users\DELL\desktop\AlphaApp\obj\Debug\net6.0\refint\AlphaApp.dll
+C:\Users\DELL\desktop\AlphaApp\obj\Debug\net6.0\AlphaApp.pdb
+C:\Users\DELL\desktop\AlphaApp\obj\Debug\net6.0\AlphaApp.genruntimeconfig.cache
+C:\Users\DELL\desktop\AlphaApp\obj\Debug\net6.0\ref\AlphaApp.dll
